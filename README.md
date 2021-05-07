@@ -1,1 +1,1 @@
-Practicing CSS with HTML. 
+CSS with HTML.  Idea of personal CV.
